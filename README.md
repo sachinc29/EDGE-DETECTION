@@ -47,6 +47,9 @@ import matplotlib.pyplot as plt
 image = cv2.imread('image.jpg')  # Replace with your image path
 gray_image = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
 ```
+### ORIGINAL IMAGE 
+
+![image](https://github.com/user-attachments/assets/0145e0f1-a1f9-4443-90a1-6ada28b1d66d)
 
 ### SOBEL EDGE DETECTOR
 ```python

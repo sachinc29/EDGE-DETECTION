@@ -68,8 +68,7 @@ laplacian = cv2.Laplacian(gray_image, cv2.CV_64F)
 ![image](https://github.com/user-attachments/assets/18475ec2-7a0a-43ca-8287-272daecc8ee9)
 
 ### CANNY EDGE DETECTOR
-```
-python
+```python
 # Apply Canny edge detector
 canny_edges = cv2.Canny(gray_image, 50, 150)
 ```
